@@ -1,0 +1,5 @@
+Number of states expanded:  711
+The maximum size of the queue during search:  3494
+The final path length:  8
+Final Path as a sequence of steps:  Increment Long 0/180 ---> Decrement Equator ---> Increment Long 90/270 ---> Increment Long 90/270 ---> Decrement Equator ---> Decrement Long 90/270 ---> Increment Long 0/180 ---> Increment Equator
+Running time: 1.015784502029419 secs
